@@ -1,0 +1,37 @@
+Weapon,Type,AP,Damage,Reach,Traits
+Bo Staff,Blunt,2 AP,15+1d8 impact,5 feet,"Agile, Two-handed"
+Brass knuckles,Unarmed,1 AP,7+1d6 impact,5 feet,——
+Chainsaw,Edged,2 AP,16+1d6 slashing,5 feet,"Special, two-handed"
+Claw gauntlet,Unarmed,1 AP,6+1d6 slashing,5 feet,Agile
+Club,Blunt,1 AP,7+1d6 impact,5 feet,——
+Curved longsword,Edged,2 AP,15+1d8 slashing,5 feet,"Agile, two-handed"
+Curved sword,Edged,1 AP,6+1d6 slashing,5 feet,Agile
+Dagger,Piercing,1 AP,5+1d6 piercing,5 feet,"Agile, throwable"
+Flail,Blunt,1 AP,6+1d6 impact,5 feet,Agile
+Great club,Blunt,3 AP,25+1d10 impact,10 feet,Two-handed
+Greatsword,Edged,3 AP,25+1d10 slashing,10 feet,Two-handed
+Hammer,Blunt,1 AP,6+1d8 impact,5 feet,——
+Hand axe,Edged,1 AP,6+1d6 slashing,5 feet,Throwable
+Javelin,Piercing,1 AP,6+1d6 piercing,5 feet,Throwable
+Knife,Edged,1 AP,5+1d6 slashing,5 feet,"Agile, throwable"
+Lance,Piercing,2 AP,15+1d8 piercing,5 feet,"Special, two-handed"
+Large axe,Edged,2 AP,15+1d8 slashing,5 feet,"Two-handed, throwable"
+Large club,Blunt,2 AP,16+1d8 impact,5 feet,Two-handed
+Large hammer,Blunt,2 AP,15+1d10 impact,5 feet,Two-handed
+Laser sword,Edged,1 AP,6+1d4 laser,5 feet,"Agile, energy"
+Laser whip,Lashing,1 AP,5+1d4 laser,10 feet,"Agile, energy"
+Long spear,Piercing,2 AP,15+1d8 piercing,10 feet,"Agile, two-handed"
+Longsword,Edged,2 AP,16+1d8 slashing,5 feet,Two-handed
+Mace,Blunt,1 AP,8+1d4 impact,5 feet,——
+Pick,Piercing,1 AP,6+1d8 piercing,5 feet,——
+Pike,Piercing,3 AP,24+1d10 piercing,10 feet,"Agile, two-handed"
+Polearm,Edged,2 AP,14+1d8 slashing,10 feet,"Agile, two-handed"
+Power gauntlet,Unarmed,2 AP,15+1d10 impact,5 feet,——
+Proton axe,Edged,1 AP,6+1d4 laser,5 feet,"Energy, throwable"
+Rapier,Piercing,1 AP,7+1d4 piercing,5 feet,Agile
+Scythe,Edged,2 AP,16+1d6 slashing,5 feet,"Agile, two-handed"
+Spear,Piercing,1 AP,6+1d6 piercing,5 feet,"Agile, throwable"
+Sword,Edged,1 AP,7+1d6 slashing,5 feet,——
+Trident,Piercing,2 AP,14+1d8 piercing,5 feet,"Agile, throwable"
+Unarmed strike,Unarmed,1 AP,5+1d4 impact,5 feet,——
+Whip,Lashing,1 AP,5+1d6 slashing,10 feet,Agile
