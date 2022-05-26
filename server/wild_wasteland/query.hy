@@ -139,8 +139,8 @@ IDENTIFIER: (LETTER | "-")+
            (equality-filter "subtype")
            )))
 
-(defn ^(of list dict) search
-  [^str query ^(of list dict) items]
+(defn #^(of list dict) search
+  [#^str query #^(of list dict) items]
   (let [parser (lark.Lark grammar)
         tree (parser.parse query)
         predicates (lmap parse-query tree.children)]
