@@ -16,4 +16,4 @@
                          (search query equipment)
                          equipment))
         (except [e LarkError]
-          (, (dict :error (str e)) 400))))))
+          #((dict :error (str e)) 400))))))
